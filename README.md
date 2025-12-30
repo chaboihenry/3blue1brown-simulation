@@ -1,6 +1,6 @@
 # 3Blue1Brown Physics Simulation
 
-A Python physics simulation that demonstrates elastic collisions between two objects to approximate the value of π, inspired by [3Blue1Brown's video on collision counting](https://www.youtube.com/watch?v=HEfHFsfGXjs).
+A Python physics simulation that demonstrates elastic collisions between two objects to approximate the value of π
 
 ## How It Works
 
